@@ -1683,7 +1683,7 @@
 				quid       	"5EBADF750339"
 				supplier   	"Logical View::Design Model::Use-Case Realizations::sucEfeturarReserva::Reserva"
 				quidu      	"5EBACD620288"
-				client_cardinality 	(value cardinality "0..n")
+				client_cardinality 	(value cardinality "0..1")
 				is_navigable 	TRUE)))
 		    (object Association "$UNNAMED$30"
 			quid       	"5EBAE06F00A9"
@@ -3198,7 +3198,7 @@
 			max_height 	28350
 			max_width  	21600
 			origin_x   	0
-			origin_y   	113
+			origin_y   	169
 			items      	(list diagram_item_list
 			    (object ClassView "Class" "Logical View::Design Model::Use-Case Realizations::sucEfeturarReserva::Reserva" @121
 				ShowCompartmentStereotypes 	TRUE
@@ -3556,7 +3556,7 @@
 					    nlines     	1
 					    max_width  	15
 					    justify    	0
-					    label      	"0..n"
+					    label      	"0..1"
 					    pctDist    	0.900000
 					    height     	54
 					    orientation 	0))))
