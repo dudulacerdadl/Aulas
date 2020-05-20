@@ -1,9 +1,9 @@
+package Aula1;
+
 import java.util.Scanner;
 
-public class Exemplo1
-{
-    public static void main(String args[])
-    {
+public class Exemplo1 {
+    public static void main(String[] args) {
         int x, y;
         int a = 10, b = 20;
         double valor;
