@@ -20,12 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c3de9aa-c29d-4f23-8d5e-ff07085e16b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aula4/Exercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula5/ExemploArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula5/Exempo2Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula5/Exercícios/Exercício1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Exemplo3Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Exercício1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Exercício2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/ExemploArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exempo2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exercícios/Exercício1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula5/Exercícios/Exercício1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/ExemploArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula5/Exemplo1Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exempo2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula5/Exemplo2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exercícios/Exercício1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula5/Exercícios/Exercício1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +61,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Exercício1">
-    <configuration name="ExemploArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula5.ExemploArray" />
+  <component name="RunManager" selected="Application.Exercício1 (1)">
+    <configuration name="Exemplo1Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula5.Exemplo1Array" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exempo2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula5.Exempo2Array" />
+    <configuration name="Exemplo2Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula5.Exemplo2Array" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -84,12 +88,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula4.Exercicio1" />
+    <configuration name="Exemplo3Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula5.Exemplo3Array" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula4.*" />
+          <option name="PATTERN" value="Aula5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercício1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula6.Exercício1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,20 +119,7 @@
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula5.Exercícios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExercícioPesquisa2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula3.ExercícioPesquisa2" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula3.*" />
+          <option name="PATTERN" value="Aula5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercício1 (1)" />
+        <item itemvalue="Application.Exemplo3Array" />
+        <item itemvalue="Application.Exemplo2Array" />
         <item itemvalue="Application.Exercício1" />
-        <item itemvalue="Application.Exempo2Array" />
-        <item itemvalue="Application.ExemploArray" />
-        <item itemvalue="Application.Exercicio1" />
-        <item itemvalue="Application.ExercícioPesquisa2" />
+        <item itemvalue="Application.Exemplo1Array" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +152,10 @@
       <workItem from="1589757005552" duration="4123000" />
       <workItem from="1590098576875" duration="6660000" />
       <workItem from="1590185166353" duration="3504000" />
-      <workItem from="1590263347339" duration="2596000" />
+      <workItem from="1590263347339" duration="4944000" />
+      <workItem from="1590276677689" duration="1913000" />
+      <workItem from="1590701279499" duration="1580000" />
+      <workItem from="1590703346106" duration="5316000" />
     </task>
     <servers />
   </component>
@@ -176,29 +183,29 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589757608764" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1590266771535">
-      <screen x="1366" y="0" width="1440" height="860" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1590708667694">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590190363241" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590266771535" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590708667694" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1590266771535">
-      <screen x="1366" y="0" width="1440" height="860" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1590708667694">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590190363241" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590266771535" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590708667694" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1590266771534">
-      <screen x="1366" y="0" width="1440" height="860" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1590708667694">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590190363240" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590266771534" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590708667694" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1590266771535">
-      <screen x="1366" y="0" width="1440" height="860" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1590708667694">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590190363241" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590266771535" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590708667694" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
     <state x="1455" y="0" width="988" height="715" key="dock-window-1" timestamp="1590098907006">
       <screen x="1366" y="0" width="1440" height="860" />

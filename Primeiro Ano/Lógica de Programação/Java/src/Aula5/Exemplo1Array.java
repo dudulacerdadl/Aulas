@@ -2,7 +2,7 @@ package Aula5;
 
 import java.util.Scanner;
 
-public class ExemploArray {
+public class Exemplo1Array {
     public static void main(String[] args) {
         double valores[] = new double[10];
         double soma = 0;

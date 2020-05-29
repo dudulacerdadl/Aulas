@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Exercício1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        int num1 = 0, num2 = 0, num3 = 0, vezes = 0, soma = 0, maior, maior2 = 0;
+        int num1, num2, num3, vezes = 0, soma = 0, maior, maior2 = 0;
         float media;
 
         do {
@@ -35,7 +35,7 @@ public class Exercício1 {
 
             vezes++;
             soma = soma + maior;
-        } while (num1 != num2 && num1 != num3 && num2 != num3);
+        } while (num1 != num2 || num2 != num3);
         media = soma / vezes;
 
         System.out.println("O maior número informado foi " + maior2 + ",e a média dos números é de " + media);
