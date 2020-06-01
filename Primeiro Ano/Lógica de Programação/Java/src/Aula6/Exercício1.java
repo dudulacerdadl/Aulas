@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Exercício1 {
     public static void main(String[] args) {
         int vezes = 0;
-        int lista[] = new int[3];
-        int posicao[] = new int[3];
+        int lista[] = new int[15];
+        int posicao[] = new int[15];
         Scanner leia = new Scanner(System.in);
 
         for (int i =0; i < lista.length; i++){
