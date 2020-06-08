@@ -1,9 +1,9 @@
 package Aula8;
 
 public class Conta {
-    int numero;
-    String titular;
-    double saldo;
+    private int numero;
+    private String titular;
+    private double saldo;
 
     public Conta(int numero, String titular){
         this.numero = numero;
@@ -22,7 +22,19 @@ public class Conta {
         }
     }
 
-    public double obterSaldo(){
+    public double getSaldo(){
         return  this.saldo;
+    }
+
+    public int getNumero(){
+        return this.numero;
+    }
+
+    public String getTitular(){
+        return this.titular;
+    }
+
+    public void setTitular(String novoTitular){
+        this.titular = novoTitular;
     }
 }
