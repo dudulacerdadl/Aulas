@@ -6,25 +6,31 @@ public class UsaProjetos {
     public static void main(String[] args) {
         Scanner leia = new Scanner(System.in);
         int opcao = 0;
-        int opcao2 = 0;
+        String nome;
         String novoNome;
         int adicinar;
         double novoCustoHora;
-        Projetos projeto1 = new Projetos("Maria");
-        Projetos projeto2 = new Projetos("Eduardo", 12);
 
-        System.out.println("Escolha um projeto: ");
-        System.out.println("1 - Projeto Maria");
-        System.out.println("2 - Projeto Eduardo");
-        opcao2 = leia.nextInt();
-
-        if (opcao2 != 1 && opcao2 != 2){
-            while (opcao2 != 1 && opcao2 != 2){
+        System.out.println("Digite o seu nome: ");
+        nome = leia.nextLine();
+        if (nome.equals("")) {
+            while (nome.equals("")) {
                 System.out.println("[ERRO] Digite um número válido:");
-                opcao2 = leia.nextInt();
+                nome = leia.nextLine();
             }
         }
-        if (opcao2 == 1){
+        System.out.println("Digite o custo hora: ");
+        System.out.println("(Caso queria usar usar o custo padrão, digite 0)");
+        int custoHora = leia.nextInt();
+
+        /*if (custoHora == 0) {
+            Projetos projeto = new Projetos(nome);
+        } else {
+            Projetos projeto = new Projetos(nome, custoHora);
+        }*/
+
+        if (custoHora == 0){
+            Projetos projeto1 = new Projetos(nome);
             while (opcao != 9) {
                 System.out.println("1 - Atualizar nome do projeto");
                 System.out.println("2 - Atualizar custo hora");
@@ -71,10 +77,10 @@ public class UsaProjetos {
                         System.out.println("Horas trabalhadas: " + projeto1.getHora());
                         System.out.println("Custo Atual: R$" + projeto1.getCustoAtual());
                         break;
-
                 }
             }
         } else {
+            Projetos projeto2 = new Projetos(nome, custoHora);
             while (opcao != 9){
                 System.out.println("1 - Atualizar nome do projeto");
                 System.out.println("2 - Atualizar custo hora");
@@ -105,7 +111,7 @@ public class UsaProjetos {
                     case 3:
                         System.out.println("Horas adicinonadas: ");
                         adicinar = leia.nextInt();
-                        projeto1.registrarHoras(adicinar);
+                        projeto2.registrarHoras(adicinar);
                         System.out.println("As horas adicionados: " + projeto2.getHora());
                         break;
                     case 4:
@@ -114,7 +120,6 @@ public class UsaProjetos {
                         System.out.println("Horas trabalhadas: " + projeto2.getHora());
                         System.out.println("Custo Atual: R$" + projeto2.getCustoAtual());
                         break;
-
                 }
             }
         }
