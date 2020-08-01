@@ -19,64 +19,90 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c3de9aa-c29d-4f23-8d5e-ff07085e16b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AulaFinal/Aviao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaFinal/CartaoCredito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AulaFinal/TesteAviao.java" afterDir="false" />
+    <list default="true" id="e1866d98-c8c8-4832-b5b6-22889c42a08a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Segundo_Semestre/Aula1/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Segundo_Semestre/Teste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula1/Exemplo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula1/Exemplo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula2/Exemplo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula2/Exemplo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula2/Exemplo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula2/Exemplo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula3/Exemplo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula3/Exemplo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula3/Exemplo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula3/Exemplo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula3/ExercícioPesquisa2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula4/Exercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula4/Exercicio1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo1Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo1Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo2Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo2Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo3Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula5/Exemplo3Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula5/Exercícios/Exercício1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula5/Exercícios/Exercício1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula6/Exercício1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula6/Exercício1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula6/Exercício2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula6/Exercício2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula7/Exercício1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula7/Exercício1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula7/Exercício2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula7/Exercício2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula8/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula8/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula8/TesteConta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula8/TesteConta.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java/Aula9/ex01/Projetos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula9/ex01/Projetos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Aula9/ex01/UsaProjetos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Aula9/ex01/UsaProjetos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AulaFinal/Aviao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/AulaFinal/Aviao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AulaFinal/CartaoCredito.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/AulaFinal/CartaoCredito.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/AulaFinal/TesteAviao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/AulaFinal/TesteAviao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/META-INF/Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula1/Exemplo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula1/Exemplo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula2/Exemplo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula2/Exemplo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula2/Exemplo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula2/Exemplo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula3/Exemplo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula3/Exemplo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula3/Exemplo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula3/Exemplo6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula3/ExercícioPesquisa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula3/ExercícioPesquisa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula3/ExercícioPesquisa2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula3/ExercícioPesquisa2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula4/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula4/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exemplo1Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula5/Exemplo1Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exemplo2Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula5/Exemplo2Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exemplo3Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula5/Exemplo3Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula5/Exercícios/Exercício1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula5/Exercícios/Exercício1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula6/Exercício1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula6/Exercício1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula6/Exercício2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula6/Exercício2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula7/Exercício1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula7/Exercício1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula7/Exercício2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula7/Exercício2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula8/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula8/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula8/TesteConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/Aula8/TesteConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula9/ex01/Projetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/ex01/Projetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula9/ex01/UsaProjetos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/ex01/UsaProjetos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulaFinal/Aviao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/AulaFinal/Aviao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulaFinal/CartaoCredito.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/AulaFinal/CartaoCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AulaFinal/TesteAviao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Primeiro_Semestre/AulaFinal/TesteAviao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectId" id="1bxzHeL6A2nHzttWgmHPS2ANUiH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1fNbt8s74rd0F1O3LU3u2Wpd6Xt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TesteAviao">
-    <configuration name="Exercício1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula7.Exercício1" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aula1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exemplo2">
+    <configuration name="Exemplo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Segundo_Semestre.Aula1.Exemplo2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Aula7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exercício2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula7.Exercício2" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula7.*" />
+          <option name="PATTERN" value="Segundo_Semestre.Aula1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,11 +111,11 @@
       </method>
     </configuration>
     <configuration name="TesteAviao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AulaFinal.TesteAviao" />
+      <option name="MAIN_CLASS_NAME" value="Primeiro_Semestre.AulaFinal.TesteAviao" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AulaFinal.*" />
+          <option name="PATTERN" value="Primeiro_Semestre.AulaFinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,87 +123,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula8.TesteConta" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UsaProjetos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Aula9.ex01.UsaProjetos" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Aula9.ex01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exemplo2" />
         <item itemvalue="Application.TesteAviao" />
-        <item itemvalue="Application.UsaProjetos" />
-        <item itemvalue="Application.TesteConta" />
-        <item itemvalue="Application.Exercício2" />
-        <item itemvalue="Application.Exercício1 (2)" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8c3de9aa-c29d-4f23-8d5e-ff07085e16b1" name="Default Changelist" comment="" />
-      <created>1589588445365</created>
+      <changelist id="e1866d98-c8c8-4832-b5b6-22889c42a08a" name="Default Changelist" comment="" />
+      <created>1596061709772</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589588445365</updated>
-      <workItem from="1589588448654" duration="94000" />
-      <workItem from="1589588719218" duration="261000" />
-      <workItem from="1589757005552" duration="4123000" />
-      <workItem from="1590098576875" duration="6660000" />
-      <workItem from="1590185166353" duration="3504000" />
-      <workItem from="1590263347339" duration="4944000" />
-      <workItem from="1590276677689" duration="1913000" />
-      <workItem from="1590701279499" duration="1580000" />
-      <workItem from="1590703346106" duration="5316000" />
-      <workItem from="1590789196261" duration="4656000" />
-      <workItem from="1590868578111" duration="1344000" />
-      <workItem from="1590956021333" duration="8766000" />
-      <workItem from="1590972119273" duration="2701000" />
-      <workItem from="1591287565471" duration="15000" />
-      <workItem from="1591305526750" duration="6578000" />
-      <workItem from="1591319857123" duration="2330000" />
-      <workItem from="1591391818037" duration="7605000" />
-      <workItem from="1591473834464" duration="8307000" />
-      <workItem from="1591486414680" duration="578000" />
-      <workItem from="1591582050147" duration="3834000" />
-      <workItem from="1591624224851" duration="3150000" />
-      <workItem from="1591683021750" duration="13000" />
-      <workItem from="1591683977733" duration="670000" />
-      <workItem from="1592009207332" duration="5012000" />
-      <workItem from="1592061011509" duration="72000" />
-      <workItem from="1592102493241" duration="11000" />
-      <workItem from="1592102523790" duration="10000" />
-      <workItem from="1593123877885" duration="8146000" />
-      <workItem from="1593209034036" duration="1142000" />
-      <workItem from="1593210355495" duration="2320000" />
+      <updated>1596061709772</updated>
+      <workItem from="1596061714041" duration="2523000" />
+      <workItem from="1596147071035" duration="88000" />
+      <workItem from="1596221002618" duration="514000" />
+      <workItem from="1596223066641" duration="902000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -191,73 +173,22 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590098845262">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="453" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1590098845262" />
-    <state x="451" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1591398600122">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="451" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591398600122" />
-    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589757608764">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="466" y="258" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589757608764" />
-    <state width="1322" height="201" key="GridCell.Tab.0.bottom" timestamp="1593214639821">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1596223977127">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592016347704" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1322" height="201" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1593214639821" />
-    <state width="1322" height="201" key="GridCell.Tab.0.center" timestamp="1593214639821">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596223977127" />
+    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1596223977126">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592016347704" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1322" height="201" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1593214639821" />
-    <state width="1322" height="201" key="GridCell.Tab.0.left" timestamp="1593214639820">
+    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596223977126" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1596223977126">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592016347704" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1322" height="201" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1593214639820" />
-    <state width="1322" height="201" key="GridCell.Tab.0.right" timestamp="1593214639821">
+    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596223977126" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1596223977127">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1592016347704" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1590280325711" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589588979731" />
-    <state width="1322" height="201" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1593214639821" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1591329492527">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591329492527" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1591329492526">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591329492526" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1591329492526">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591329492526" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1591329492526">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591329492526" />
-    <state x="1484" y="-17" width="991" height="715" key="dock-window-1" timestamp="1591486822006">
-      <screen x="1366" y="0" width="1440" height="860" />
-    </state>
-    <state x="1484" y="-17" width="991" height="715" key="dock-window-1/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591486822006" />
-    <state x="413" y="125" key="extract.method.dialog" timestamp="1591485985979">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="413" y="125" key="extract.method.dialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1591485985979" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596223977127" />
   </component>
 </project>
