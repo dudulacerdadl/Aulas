@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59e19be5-2249-4fa8-8bec-d273f68fa4ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula1/Exemplo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula2/Exemplo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula2/Exemplo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/Exemplo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/Exemplo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ExercícioPesquisa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula3/ExercícioPesquisa2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula4/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Exemplo1Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Exemplo2Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Exemplo3Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula5/Exercícios/Exercício1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Exercício1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula6/Exercício2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula7/Exercício1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula7/Exercício2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula8/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aula8/TesteConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaFinal/Aviao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaFinal/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AulaFinal/TesteAviao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/Projetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex01/UsaProjetos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2_Periodo/Linguagem-de-Programação-Orientada-a-Objetos/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Gerencia de Requisitos/Bizagi/SmartClepius.bpm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Gerencia de Requisitos/IBM Rational Rose/Advocacia.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Gerencia de Requisitos/IBM Rational Rose/Controlar CD.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Gerencia de Requisitos/IBM Rational Rose/Diagrama Casos de Uso SmartClepius.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Gerencia de Requisitos/IBM Rational Rose/Hotelaria.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula1/Exemplo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula1/Exemplo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula2/Exemplo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula2/Exemplo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula3/Exemplo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula3/Exemplo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula3/ExercícioPesquisa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula3/ExercícioPesquisa2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula4/Exercicio1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula5/Exemplo1Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula5/Exemplo2Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula5/Exemplo3Array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula5/Exercícios/Exercício1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula6/Exercício1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula6/Exercício2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula7/Exercício1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula7/Exercício2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula8/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula8/TesteConta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula9/ex01/Projetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/Aula9/ex01/UsaProjetos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/AulaFinal/Aviao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/AulaFinal/CartaoCredito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/out/production/Java/AulaFinal/TesteAviao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula1/Exemplo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula2/Exemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula2/Exemplo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula3/Exemplo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula3/Exemplo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula3/ExercícioPesquisa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula3/ExercícioPesquisa2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula4/Exercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula5/Exemplo1Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula5/Exemplo2Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula5/Exemplo3Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula5/Exercícios/Exercício1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula6/Exercício1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula6/Exercício2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula7/Exercício1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula7/Exercício2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula8/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/Aula8/TesteConta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/AulaFinal/Aviao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/AulaFinal/CartaoCredito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/AulaFinal/TesteAviao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/ex01/Projetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Primeiro_Semestre/ex01/UsaProjetos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Segundo_Semestre/Aula1/Exemplo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/Java/src/Segundo_Semestre/Teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Ativ1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Ativ2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Escolha/Ad.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Escolha/Ad1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Escolha/Ad2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Escolha/Ad3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Escolha/Atividade 4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Exerc1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Exerc2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Exerc3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Letra A.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Letra B.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Letra C.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Letra D.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Médias.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Primeira Aula.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Questão 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Questão 2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Questão 3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Questão 4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Questão 5.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição Master/Exercício 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição Suprema/Exercício 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição Suprema/Exercício 2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição Suprema/Exercício 3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição Suprema/Exercício 4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição composta/Ex1.1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição composta/Ex1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição composta/Ex2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 0.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 5.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Repetição/Exercício 6.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 1 ANTIGO.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 2 ANTIGO.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 3 ANTIGO.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Atividade 4 ANTIGO.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Exemplo 1.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Exemplo 2.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Exemplo 3.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Exemplo 4.ALG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Primeiro Ano/Lógica de Programação/VisualG/Se/Exemplo 5.ALG" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1fgknSWePHv1GoYyHUe2WfggWrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Exemplo1">
+    <configuration name="Exemplo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aula1.Exemplo1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aula1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Exemplo1.Main" />
+      <module name="Java" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Exemplo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exemplo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59e19be5-2249-4fa8-8bec-d273f68fa4ec" name="Default Changelist" comment="" />
+      <created>1596647290499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596647290499</updated>
+      <workItem from="1596647295021" duration="2564000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom" timestamp="1596649883775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596649883775" />
+    <state width="1322" height="192" key="GridCell.Tab.0.center" timestamp="1596649883775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596649883775" />
+    <state width="1322" height="192" key="GridCell.Tab.0.left" timestamp="1596649883775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596649883775" />
+    <state width="1322" height="192" key="GridCell.Tab.0.right" timestamp="1596649883775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1322" height="192" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1440.900@0.0.1366.768" timestamp="1596649883775" />
+  </component>
+</project>
