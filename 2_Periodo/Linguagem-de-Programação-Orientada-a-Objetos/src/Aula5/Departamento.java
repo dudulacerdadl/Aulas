@@ -20,21 +20,21 @@ public class Departamento {
     public void addEmpregado(Empregado emp) {
         listEmp.add(emp);
     }
-//    public void removeEmpregado(Empregado emp) {
-//        listEmp.remove(emp);
-//    }
-//    public String listarEmpregado() {
-//        //retornar uma String com matricula e nome empregado
-//        String saida = "";
-//        Empregado empAux;
-//        for (int i = 0; i < listEmp.size(); i++) {
-//            empAux = listEmp.get(i);
-//            saida += empAux.getNome() + " " + empAux.getSalario() + '\n';
-//        }
-//        return saida;
-//    }
-//    public int qtdEmpregado(){
-//        return listEmp.size();
-//    }
+    public void removeEmpregado(Empregado emp) {
+        listEmp.remove(emp);
+    }
+    public String listarEmpregado() {
+        //retornar uma String com matricula e nome empregado
+        String saida = "";
+        Empregado empAux;
+        for (int i = 0; i < listEmp.size(); i++) {
+            empAux = listEmp.get(i);
+            saida += empAux.getNome() + " " + empAux.getSalario() + '\n';
+        }
+        return saida;
+    }
+    public int qtdEmpregado(){
+        return listEmp.size();
+    }
 }
 

@@ -50,6 +50,8 @@ public class Controle {
                     if(auxEmp.getMatricula() == matricula){
                         auxDep.addEmpregado(auxEmp);
                         break;
+                    } else {
+                        System.out.println("[ERRO] Digite uma matrícula válida!");
                     }
                 }
                 break;
@@ -69,7 +71,7 @@ public class Controle {
                 for(int j=0; j < listEmp.size();j++){
                     Empregado auxEmp = listEmp.get(j);
                     if(auxEmp.getMatricula() == matricula){
-                        listEmp.remove(auxEmp);
+                        auxDep.removeEmpregado(auxEmp);
                         break;
                     }
                 }
@@ -85,10 +87,7 @@ public class Controle {
         for (int i=0; i<listDep.size(); i++){
             Departamento auxDep = listDep.get(i);
             if (auxDep.getNome().equals(departamento)) {
-                for (int j=0; j<listEmp.size(); j++){
-                    Empregado auxEmp = listEmp.get(j);
-                    saida += "Nome: " + auxEmp.getNome() + '\n';
-                }
+                saida = auxDep.listarEmpregado();
             }
         }
         return saida;
