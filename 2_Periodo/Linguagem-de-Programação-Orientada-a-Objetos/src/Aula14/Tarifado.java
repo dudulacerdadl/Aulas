@@ -1,2 +1,5 @@
-package Aula14;public class Tarifado {
+package Aula14;
+
+public interface Tarifado {
+    public double getTarifa();
 }
